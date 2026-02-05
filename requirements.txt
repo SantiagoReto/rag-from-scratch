@@ -1,0 +1,16 @@
+# Core
+openai
+python-dotenv
+requests
+tqdm
+
+# PDF
+PyMuPDF
+
+# Data / ML
+numpy
+pandas
+torch
+
+# NLP (sentence splitting)
+spacy
